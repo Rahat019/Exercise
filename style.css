@@ -1,0 +1,43 @@
+ p{
+ 	    display: block;
+ 	    margin-block-start: 3em;
+ 	    margin-block-end: 3em;
+ 	    margin-inline-start: 21px;
+ 	    margin-inline-end: 0px;
+ 	    font-size: 20px;
+ 	    color: darkred;
+ 	    line-height: 1.4;
+ }
+ BODY{
+ 	    margin: 0
+px
+;
+ }
+ em{}
+ div{
+ 	    width: auto;
+ 	    margin-left: 225px;
+ 	    margin-right: 225px;
+ 	    text-align: center;
+ 	    background: bisque;
+ 	    padding-top: 1px;
+ 	    padding-bottom: 25px;
+ 	    padding-left: 25px;
+ 	    padding-right: 25px;
+ }
+ img{
+    width: 500px;
+}
+ b{}
+ h1{}
+ a{
+    display: block;
+    font-size: 30px;
+    text-decoration: none;
+    background: radial-gradient(black, transparent);
+    color: white;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
